@@ -4,6 +4,7 @@
 
 Crossplatform Text shim, consolidating iOS and Android font weight and font family APIs.
 
+**Notice:** This repo is a clone of [this](https://github.com/lendup/react-native-cross-platform-text)
 ## Installation
 
 ```bash
